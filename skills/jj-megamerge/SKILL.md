@@ -1,6 +1,6 @@
 ---
 name: jj-megamerge
-description: Use this skill for Jujutsu megamerge workflows: maintaining one octopus merge over multiple independent work branches, staging new stacks, absorbing WIP into existing commits, restacking onto trunk, and publishing only individual branches.
+description: "Use this skill for Jujutsu megamerge workflows: maintaining one octopus merge over multiple independent work branches, staging new stacks, absorbing WIP into existing commits, restacking onto trunk, and publishing only individual branches."
 ---
 
 # jj-megamerge
